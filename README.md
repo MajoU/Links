@@ -9,3 +9,5 @@
 [Data Science Specialization - notes and useful informations, links ets.](http://datasciencespecialization.github.io/)
 
 [Connect to ms access by python API](http://stackoverflow.com/questions/16636118/how-to-do-parametrized-queries-using-pypyodbc-in-python)
+
+[Connect to Azure/Transact SQL with Python](https://azure.microsoft.com/en-us/documentation/articles/sql-database-develop-python-simple-ubuntu-linux/)
