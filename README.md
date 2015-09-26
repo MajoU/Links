@@ -17,3 +17,11 @@
 [SparkSQL tutorial guide](http://spark.apache.org/docs/latest/sql-programming-guide.html#json-datasets)
 
 [Spark installation guide](http://mbonaci.github.io/mbo-spark/)
+
+[Spark video tutorial](https://youtu.be/i0_FQRPbkIU)
+
+[Spark overview Dzone](https://dzone.com/articles/introduction-to-bigdata-analytics-with-apache-spar-6)
+
+[SQL data cleaning techniques](http://decisivedata.net/blog/cleaning-messy-data-sql-part-3-sql-functions-clean-strings/)
+
+[Normalization of Databases](https://www.youtube.com/watch?v=oGObN5TKY9E)
