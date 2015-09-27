@@ -25,3 +25,21 @@
 [SQL data cleaning techniques](http://decisivedata.net/blog/cleaning-messy-data-sql-part-3-sql-functions-clean-strings/)
 
 [Normalization of Databases](https://www.youtube.com/watch?v=oGObN5TKY9E)
+
+[PostgreSQL Cube functin](http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html)
+
+[Kaggle irresponsible tutorial - Machine learning](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
+
+[Basic mode tuning - Machine learning](http://topepo.github.io/caret/training.html)
+
+[Pre-processing in Machine Learning](http://topepo.github.io/caret/preprocess.html)
+
+[Machine Learning - Titanic example in github](https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md)
+
+[Machine Learning - multistep tutorial to Titanic dataset](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r)
+
+[Stanford Database - github user excercises](https://github.com/nabinsharma/dbclass-stanford/blob/master/sql/SQLMovieRatingModification.sql)
+
+[Stanford Database - another github user and his excercises](https://github.com/yangchenyun/dbclass-exercises/blob/master/2.sql-exercise/movie-rating/modify_set.sql)
+
+[Very good tutorial to 10 Data Mining Algorhythm](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
