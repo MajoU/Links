@@ -54,4 +54,8 @@
 
 [Infinario interesting articles](http://blog.infinario.com/)
 
+[Infinario Jozo Kovac interesting article](http://gamasutra.com/blogs/JozoKovac/20150416/241183/Speed_Matters.php)
+
 [Tidy data example in R](https://github.com/justmarkham/tidy-data/blob/master/tidy-data.R)
+
+[Datawarehousing Concept and basics articles](http://www.1keydata.com/datawarehousing/dimensional.html)
