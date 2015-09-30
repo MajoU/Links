@@ -8,8 +8,6 @@
 
 [Data Science Specialization - notes and useful informations, links ets.](http://datasciencespecialization.github.io/)
 
-[Connect to ms access by python API](http://stackoverflow.com/questions/16636118/how-to-do-parametrized-queries-using-pypyodbc-in-python)
-
 [Connect to Microsoft Azure/Transact SQL with Python](https://azure.microsoft.com/en-us/documentation/articles/sql-database-develop-python-simple-ubuntu-linux/)
 
 [Python SQLAlchemy for data modeling](https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html)
@@ -26,7 +24,7 @@
 
 [Normalization of Databases](https://www.youtube.com/watch?v=oGObN5TKY9E)
 
-[PostgreSQL Cube functin](http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html)
+[PostgreSQL Cube function](http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html)
 
 [Kaggle irresponsible tutorial - Machine learning](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 
@@ -42,4 +40,18 @@
 
 [Stanford Database - another github user and his excercises](https://github.com/yangchenyun/dbclass-exercises/blob/master/2.sql-exercise/movie-rating/modify_set.sql)
 
-[Very good tutorial to 10 Data Mining Algorhythm](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+[Very good tutorial for 10 Data Mining Algorhythm](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+[SQL regexp, RMySQL package, dplyr package tutorial](http://www.unomaha.edu/mahbubulmajumder/data-science/fall-2014/lectures/20-database-mysql/20-database-mysql.html#/)
+
+[SQLAlchemy tutorial (easy)](http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html)
+
+[Dbext SQL cheat sheet](http://blog.kusnier.net/development/vim/vim-dbext-mappings)
+
+[JSON data files to learning](http://mtgjson.com/)
+
+[Infinario game analytics examples](https://www.youtube.com/channel/UCzelI4f5xfhjh6yTiMSjR-A)
+
+[Infinario interesting articles](http://blog.infinario.com/)
+
+[Tidy data example in R](https://github.com/justmarkham/tidy-data/blob/master/tidy-data.R)
