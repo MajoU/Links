@@ -59,3 +59,5 @@
 [Tidy data example in R](https://github.com/justmarkham/tidy-data/blob/master/tidy-data.R)
 
 [Datawarehousing Concept and basics articles](http://www.1keydata.com/datawarehousing/dimensional.html)
+
+pridat nove
