@@ -61,3 +61,5 @@
 [Datawarehousing Concept and basics articles](http://www.1keydata.com/datawarehousing/dimensional.html)
 
 [Decision Trees in R (very good examples)](http://www.r-bloggers.com/comparing-tree-based-classification-methods-via-the-kaggle-otto-competition/)
+
+[Decison Trees - basic example with R](http://gormanalysis.com/decision-trees-in-r-using-rpart/)
