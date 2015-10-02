@@ -60,4 +60,4 @@
 
 [Datawarehousing Concept and basics articles](http://www.1keydata.com/datawarehousing/dimensional.html)
 
-pridat nove
+[Decision Trees in R (very good examples)](http://www.r-bloggers.com/comparing-tree-based-classification-methods-via-the-kaggle-otto-competition/)
