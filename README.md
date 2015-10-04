@@ -62,7 +62,7 @@
 
 [Decision Trees in R (very good examples)](http://www.r-bloggers.com/comparing-tree-based-classification-methods-via-the-kaggle-otto-competition/)
 
-[Decision Trees - multiple packages example in R](https://github.com/MajoU/Links)
+[Decision Trees - multiple packages example in R](http://www.r-bloggers.com/a-brief-tour-of-the-trees-and-forests/)
 
 [Decison Trees - basic example with R](http://gormanalysis.com/decision-trees-in-r-using-rpart/)
 
