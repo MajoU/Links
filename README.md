@@ -66,3 +66,4 @@
 
 [Decison Trees - basic example with R](http://gormanalysis.com/decision-trees-in-r-using-rpart/)
 
+[Cloudera Blog (usefull informations about NoSQL)](http://blog.cloudera.com/blog/)
