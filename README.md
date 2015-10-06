@@ -58,6 +58,8 @@
 
 [Infinario COOKBOOK](http://guides.infinario.com/cookbook/quick-start-videos/)
 
+[Infinario Guides](http://guides.infinario.com/)
+
 [Tidy data example in R](https://github.com/justmarkham/tidy-data/blob/master/tidy-data.R)
 
 [Datawarehousing Concept and basics articles](http://www.1keydata.com/datawarehousing/dimensional.html)
@@ -69,3 +71,5 @@
 [Decison Trees - basic example with R](http://gormanalysis.com/decision-trees-in-r-using-rpart/)
 
 [Cloudera Blog (usefull informations about NoSQL)](http://blog.cloudera.com/blog/)
+
+[Spark json manipulation](http://spark.apache.org/docs/latest/sql-programming-guide.html)
