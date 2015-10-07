@@ -75,3 +75,5 @@
 [Spark json manipulation](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 
 [Spark python data frame manipulation](https://spark.apache.org/docs/latest/api/python/pyspark.sql.html)
+
+[Spark MLlib regression code](https://spark.apache.org/docs/1.1.0/api/python/pyspark.mllib.classification-pysrc.html)
