@@ -79,3 +79,5 @@
 [Spark MLlib regression code](https://spark.apache.org/docs/1.1.0/api/python/pyspark.mllib.classification-pysrc.html)
 
 [Spark MLlib evaulation models](https://spark.apache.org/docs/latest/api/python/_modules/pyspark/mllib/evaluation.html)
+
+[Animacie, grafy, zdrojaky z gist](http://bl.ocks.org/mbostock)
