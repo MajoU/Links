@@ -73,3 +73,5 @@
 [Cloudera Blog (usefull informations about NoSQL)](http://blog.cloudera.com/blog/)
 
 [Spark json manipulation](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+
+[Spark python data frame manipulation](https://spark.apache.org/docs/latest/api/python/pyspark.sql.html)
