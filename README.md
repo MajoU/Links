@@ -83,3 +83,5 @@
 [Animacie, grafy, zdrojaky z gist](http://bl.ocks.org/mbostock)
 
 [Spark matplotlib, graphical output in pyspark](http://bigdatasciencebootcamp.com/posts/Part_3/basic_big_data.html)
+
+[Linear Regression evaluation in R](http://www.r-bloggers.com/evaluating-logistic-regression-models/)
