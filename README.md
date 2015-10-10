@@ -85,3 +85,5 @@
 [Spark matplotlib, graphical output in pyspark](http://bigdatasciencebootcamp.com/posts/Part_3/basic_big_data.html)
 
 [Linear Regression evaluation in R](http://www.r-bloggers.com/evaluating-logistic-regression-models/)
+
+[Linear Regression example with evaluation](http://www.ats.ucla.edu/stat/r/dae/logit.htm)
