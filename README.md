@@ -87,3 +87,5 @@
 [Linear Regression evaluation in R](http://www.r-bloggers.com/evaluating-logistic-regression-models/)
 
 [Linear Regression example with evaluation](http://www.ats.ucla.edu/stat/r/dae/logit.htm)
+
+[Gradient boosting example in R (gbm)](https://github.com/campbwa/R-videos/blob/master/titanic%20gbm.R)
