@@ -91,3 +91,5 @@
 [Gradient boosting example in R (gbm)](https://github.com/campbwa/R-videos/blob/master/titanic%20gbm.R)
 
 [XGBoost package for gradient boosting in R - examples and tutorials](https://xgboost.readthedocs.org/en/latest/)
+
+[Gradient boosting example - training and tuning](http://topepo.github.io/caret/training.html)
