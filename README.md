@@ -8,8 +8,6 @@
 
 [Data Science Specialization - notes and useful informations, links ets.](http://datasciencespecialization.github.io/)
 
-[Connect to Microsoft Azure/Transact SQL with Python](https://azure.microsoft.com/en-us/documentation/articles/sql-database-develop-python-simple-ubuntu-linux/)
-
 [Python SQLAlchemy for data modeling](https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html)
 
 [SparkSQL tutorial guide](http://spark.apache.org/docs/latest/sql-programming-guide.html#json-datasets)
@@ -93,3 +91,5 @@
 [XGBoost package for gradient boosting in R - examples and tutorials](https://xgboost.readthedocs.org/en/latest/)
 
 [Gradient boosting example - training and tuning](http://topepo.github.io/caret/training.html)
+
+[Python for R user (basics and plotting)](https://www.dataquest.io/blog/python-vs-r/)
