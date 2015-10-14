@@ -95,3 +95,7 @@
 [Python for R user (basics and plotting)](https://www.dataquest.io/blog/python-vs-r/)
 
 [KNN modeling with examples in R](http://www3.nd.edu/~steve/computing_with_data/17_Refining_kNN/refining_knn.html)
+
+[Machine Learning - tuning and dummy variables - very usefull source](http://amunategui.github.io/dummyVar-Walkthrough/)
+
+[Machine Learning Titanic next example for insights](http://amunategui.github.io/binary-outcome-modeling/)
