@@ -99,3 +99,5 @@
 [Machine Learning - tuning and dummy variables - very usefull source](http://amunategui.github.io/dummyVar-Walkthrough/)
 
 [Machine Learning Titanic next example for insights](http://amunategui.github.io/binary-outcome-modeling/)
+
+[Stanford Machine Learning course - Notes with colors](http://www.holehouse.org/mlclass/)
