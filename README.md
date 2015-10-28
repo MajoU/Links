@@ -101,3 +101,9 @@
 [Machine Learning Titanic next example for insights](http://amunategui.github.io/binary-outcome-modeling/)
 
 [Stanford Machine Learning course - Notes with colors](http://www.holehouse.org/mlclass/)
+
+[Pandas save csv file with accents](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
+
+[Ctree examples of trees in Stackoverflow](http://stackoverflow.com/questions/13751962/how-to-plot-a-large-ctree-to-avoid-overlapping-nodes)
+
+[mvpart decision tree turorial in [r]](http://rstudio-pubs-static.s3.amazonaws.com/3588_81e2ebd4de1b41bc9ac2f29f5f7dab2e.html)
