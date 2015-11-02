@@ -1,5 +1,8 @@
 # Useful links from the web
 
+## R tips and hacks
+
+[Best packages in R](http://www.computerworld.com/article/2921176/business-intelligence/great-r-packages-for-data-import-wrangling-visualization.html)
 
 ## Kaggle
 
