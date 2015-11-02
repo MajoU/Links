@@ -1,7 +1,7 @@
-## Useful links from the web
+# Useful links from the web
 
 
-# Kaggle
+## Kaggle
 
 [Kaggle irresponsible tutorial - Machine learning](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 
@@ -12,7 +12,7 @@
 [Machine Learning Titanic next example for insights](http://amunategui.github.io/binary-outcome-modeling/)
 
 
-# Machine Learning and R
+## Machine Learning and R
 
 [Tidy data example in R](https://github.com/justmarkham/tidy-data/blob/master/tidy-data.R)
 
@@ -55,7 +55,7 @@
 [KNN modeling with examples in R](http://www3.nd.edu/~steve/computing_with_data/17_Refining_kNN/refining_knn.html)
 
 
-# For Education
+## For Education
 
 [Data Science Specialization - notes and useful informations, links ets.](http://datasciencespecialization.github.io/)
 
@@ -69,7 +69,7 @@
 
 
 
-# SQL
+## SQL
 
 [Normalization of Databases](https://www.youtube.com/watch?v=oGObN5TKY9E)
 
@@ -92,7 +92,7 @@
 [Datawarehousing Concept and basics articles](http://www.1keydata.com/datawarehousing/dimensional.html)
 
 
-# Infinario 
+## Infinario 
 
 [Infinario COOKBOOK](http://guides.infinario.com/cookbook/quick-start-videos/)
 
@@ -103,13 +103,13 @@
 
 
 
-# Animation in javascript
+## Animation in javascript
 
 [Animacie, grafy, zdrojaky z gist](http://bl.ocks.org/mbostock)
 
 
 
-# Python and spark
+## Python and spark
 
 
 [Pandas save csv file with accents](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
@@ -128,7 +128,7 @@
 
 [Python SQLAlchemy for data modeling](https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html)
 
-# ElasticSearch
+## ElasticSearch
 
 [ElasticSearch tutorial](http://joelabrahamsson.com/elasticsearch-101/)
 
