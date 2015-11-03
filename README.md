@@ -4,6 +4,10 @@
 
 [Best packages in R](http://www.computerworld.com/article/2921176/business-intelligence/great-r-packages-for-data-import-wrangling-visualization.html)
 
+[Dual axis](https://rpubs.com/kohske/dual_axis_in_ggplot2)
+
+[Dual axis in basic plot R system](http://www.r-bloggers.com/r-single-plot-with-two-different-y-axes/)
+
 ## Kaggle
 
 [Kaggle irresponsible tutorial - Machine learning](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
