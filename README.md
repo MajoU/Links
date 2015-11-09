@@ -2,6 +2,14 @@
 
 ## R tips and hacks
 
+[Multiple plots in rmarkdown example](http://stackoverflow.com/questions/25535499/create-multiple-plots-with-unique-rmarkdown-headers?rq=1)
+
+[Interesting ggplot examples](http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page-r-software-and-data-visualization) 
+
+[Pander tables examples + Pandoc](http://rapporter.github.io/pander/#pander-an-r-pandoc-writer)
+
+[Working with JSON files in R](https://www.opencpu.org/posts/jsonlite-streaming/)
+
 [Best packages in R](http://www.computerworld.com/article/2921176/business-intelligence/great-r-packages-for-data-import-wrangling-visualization.html)
 
 [Dual axis](https://rpubs.com/kohske/dual_axis_in_ggplot2)
