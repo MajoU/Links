@@ -2,6 +2,12 @@
 
 ## R tips and hacks
 
+[Magic Tables with pixiedust in R](https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html)
+
+[Package broom for model values extraction]("https://github.com/dgrtwo/broom")
+
+[Color Tables in Rmd](http://stackoverflow.com/questions/24254552/knitr-style-table-with-css)
+
 [Multiple plots in rmarkdown example](http://stackoverflow.com/questions/25535499/create-multiple-plots-with-unique-rmarkdown-headers?rq=1)
 
 [Interesting ggplot examples](http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page-r-software-and-data-visualization) 
