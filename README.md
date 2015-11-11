@@ -4,7 +4,7 @@
 
 [Magic Tables with pixiedust in R](https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html)
 
-[Package broom for model values extraction]("https://cran.r-project.org/web/packages/broom/vignettes/broom.html")
+[Broom package for models values extraction]("https://cran.r-project.org/web/packages/broom/vignettes/broom.html")
 
 [Color Tables in Rmd](http://stackoverflow.com/questions/24254552/knitr-style-table-with-css)
 
