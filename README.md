@@ -2,6 +2,10 @@
 
 ## R tips and hacks
 
+[Learning Spark online](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
+
+[MoonBook tabls in R](https://cran.r-project.org/web/packages/moonBook/vignettes/moonBook.html)
+
 [Magic Tables with pixiedust in R](https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html)
 
 [Broom package for models values extraction](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
