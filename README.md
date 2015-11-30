@@ -4,6 +4,8 @@
 
 [R for python/pandas users](http://notes.lexual.com/tech/r_numpy_pandas_cookbook.html)
 
+[R vs Python - Data Science wars](http://i0.wp.com/blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png)
+
 [Learning Spark online](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
 
 [MoonBook tabls in R](https://cran.r-project.org/web/packages/moonBook/vignettes/moonBook.html)
