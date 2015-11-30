@@ -2,6 +2,8 @@
 
 ## R tips and hacks
 
+[R for python/pandas users](http://notes.lexual.com/tech/r_numpy_pandas_cookbook.html)
+
 [Learning Spark online](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
 
 [MoonBook tabls in R](https://cran.r-project.org/web/packages/moonBook/vignettes/moonBook.html)
