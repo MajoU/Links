@@ -1,6 +1,9 @@
 # Useful links from the web
 
-## R tips and hacks
+## R tips and other hacks
+[Python courses for Machine Learning Step by Step (great source)](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+
+[Python Machine Learning libraries](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 
 [R for python/pandas users](http://notes.lexual.com/tech/r_numpy_pandas_cookbook.html)
 
