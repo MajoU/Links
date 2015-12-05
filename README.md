@@ -1,6 +1,11 @@
 # Useful links from the web
 
-## R tips and other hacks
+## Newest links 
+
+[Python regular expression](https://www.debuggex.com/cheatsheet/regex/python)
+
+[Python great tutorials](https://learnxinyminutes.com/docs/python/)
+
 [Python courses for Machine Learning Step by Step (great source)](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
 [Python Machine Learning libraries](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
