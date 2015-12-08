@@ -2,6 +2,10 @@
 
 ## Newest links 
 
+[Tutorial to Docker](https://www.dataquest.io/blog/data-science-quickstart-with-docker/)
+
+[Basic Regular expression in Python with examples](https://developers.google.com/edu/python/regular-expressions)
+
 [Python regular expression](https://www.debuggex.com/cheatsheet/regex/python)
 
 [Python great tutorials](https://learnxinyminutes.com/docs/python/)
