@@ -2,6 +2,16 @@
 
 ## Newest links 
 
+[Comparison between pandas and Spark](https://lab.getbase.com/pandarize-spark-dataframes/)
+
+[Spark DataFrames introduction](https://github.com/yu-iskw/spark-dataframe-introduction/blob/master/doc/dataframe-introduction.md)
+
+[Nested data frame in Spark (solution in overflow)](http://stackoverflow.com/questions/30501300/is-spark-dataframe-nested-structure-limited-for-selection)
+
+[Long and very usefull data.table aggregations in R](https://mpiccirilli.github.io/)
+
+[Cheat sheet for R, Python, SQL, etc](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+
 [Tutorial to Docker](https://www.dataquest.io/blog/data-science-quickstart-with-docker/)
 
 [Basic Regular expression in Python with examples](https://developers.google.com/edu/python/regular-expressions)
