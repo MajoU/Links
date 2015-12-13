@@ -2,9 +2,15 @@
 
 ## Newest links 
 
+[All PySpark functions in one](http://spark.apache.org/docs/latest/api/python/pyspark.html)
+
+[Spark DataFrames functions list](https://spark.apache.org/docs/1.5.2/api/scala/index.html#org.apache.spark.sql.DataFrame)
+
+[Spark dataframes example](https://www.codementor.io/spark/tutorial/python-spark-sql-dataframes)
+
 [Comparison between pandas and Spark](https://lab.getbase.com/pandarize-spark-dataframes/)
 
-[Spark DataFrames introduction](https://github.com/yu-iskw/spark-dataframe-introduction/blob/master/doc/dataframe-introduction.md)
+[Spark DataFrames Introduction](https://github.com/yu-iskw/spark-dataframe-introduction/blob/master/doc/dataframe-introduction.md)
 
 [Nested data frame in Spark (solution in overflow)](http://stackoverflow.com/questions/30501300/is-spark-dataframe-nested-structure-limited-for-selection)
 
