@@ -2,6 +2,8 @@
 
 ## Newest links 
 
+[All Spark DataFrame functions](https://spark.apache.org/docs/1.3.1/api/scala/index.html#org.apache.spark.sql.DataFrame)
+
 [All PySpark functions in one](http://spark.apache.org/docs/latest/api/python/pyspark.html)
 
 [Spark DataFrames functions list](https://spark.apache.org/docs/1.5.2/api/scala/index.html#org.apache.spark.sql.DataFrame)
@@ -24,7 +26,7 @@
 
 [Python regular expression](https://www.debuggex.com/cheatsheet/regex/python)
 
-[Python great tutorials](https://learnxinyminutes.com/docs/python/)
+[Python great tutorial](https://learnxinyminutes.com/docs/python/)
 
 [Python courses for Machine Learning Step by Step (great source)](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
