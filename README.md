@@ -2,6 +2,10 @@
 
 ## Newest links 
 
+[Machine Learning Evaluations in Spark](https://spark.apache.org/docs/1.5.2/mllib-evaluation-metrics.html)
+
+[ML in Spark](http://web.cs.ucla.edu/~mtgarip/linear.html)
+
 [All Spark DataFrame functions](https://spark.apache.org/docs/1.3.1/api/scala/index.html#org.apache.spark.sql.DataFrame)
 
 [All PySpark functions in one](http://spark.apache.org/docs/latest/api/python/pyspark.html)
