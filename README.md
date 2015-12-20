@@ -2,6 +2,12 @@
 
 ## Newest links 
 
+[Machine Learning String operations](https://people.apache.org/~pwendell/spark-nightly/spark-master-docs/latest/ml-features.html#tf-idf-hashingtf-and-idf)
+
+[Beaker Notebook turorial](http://decisionstats.com/2015/12/07/decisionstats-interview-scott-draves-beaker-notebook/)
+
+[ROC Curve AUC Understanding](http://0agr.ru/wiki/index.php/ROC_Analysis)
+
 [Machine Learning Evaluations in Spark](https://spark.apache.org/docs/1.5.2/mllib-evaluation-metrics.html)
 
 [ML in Spark](http://web.cs.ucla.edu/~mtgarip/linear.html)
