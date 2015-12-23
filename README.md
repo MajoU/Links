@@ -2,6 +2,10 @@
 
 ## Newest links 
 
+[Spark tuning job part2](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
+
+[Spark tuning job part1](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
+
 [Machine Learning String operations](https://people.apache.org/~pwendell/spark-nightly/spark-master-docs/latest/ml-features.html#tf-idf-hashingtf-and-idf)
 
 [Beaker Notebook turorial](http://decisionstats.com/2015/12/07/decisionstats-interview-scott-draves-beaker-notebook/)
