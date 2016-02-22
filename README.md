@@ -2,6 +2,12 @@
 
 ## Newest links 
 
+[Spark tuning examples](https://developer.ibm.com/hadoop/blog/2016/02/16/beginners-guide-apache-spark-troubleshooting/)
+
+[CSV kit tutorial - big csv manipulation](http://csvkit.readthedocs.org/en/0.9.1/tutorial.html)
+
+[Command line analysis](http://craig-russell.co.uk/2012/07/09/10-shell-commands-for-data.html#.VrH3gcuVtQ6)
+
 [Spark tuning job part2](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
 
 [Spark tuning job part1](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
